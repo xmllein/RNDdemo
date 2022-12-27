@@ -13,7 +13,7 @@
 
 ## 依赖包版本
 
-```json
+```sh
 react-native-config: 1.4.11 // 环境变量
 babel-plugin-module-resolver: 4.1.0 // 路径别名
 react-native-svg: 13.6.0 // svg 图标 转 rn 组件
