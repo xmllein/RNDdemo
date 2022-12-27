@@ -52,6 +52,7 @@ react-native-linear-animated-gradient-transition: 0.1.6 // 渐变色动画
 - [React-Navigation 从 5.x 升级到 6.x](https://juejin.cn/post/7174332947187630111)
 - [最新版 React Native iOS 项目搭建纪实](https://juejin.cn/post/7171021947029946398)
 - [在 macOS 里搭建最新版 React Native Android 项目纪实](https://juejin.cn/post/7172958709721595935)
+- [Flipper 调试](https://fbflipper.com/)
 
 ## 遇到问题
 
