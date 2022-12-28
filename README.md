@@ -14,19 +14,19 @@
 ## 依赖包版本
 
 - 具体看 `package.json`， 这里列出主要
-- `react-native-config: 1.4.11` // 环境变量
-- `babel-plugin-module-resolver: 4.1.0` // 路径别名
-- `react-native-svg: 13.6.0` // svg 图标 转 rn 组件
-- `dva-core-ts: 2.0.7` // dva 状态管理
-- `@react-navigation/stack: 6.3.10` // 路由
-- `@react-navigation/bottom-tabs: 6.5.2` // 底部导航
-- `@react-navigation/material-top-tabs: 6.5.1` // 顶部导航
-- `react-native-gesture-handler: 2.8.0` // 手势
-- `react-native-safe-area-context: 4.4.1` // 安全区域
-- `react-native-snap-carousel: 3.9.1` // 轮播图
-- `axios: 1.24.0` // http 请求
-- `react-native-linear-gradient: 2.6.2` // 渐变色
-- `react-native-linear-animated-gradient-transition: 0.1.6` // 渐变色动画
+- `react-native-config: 1.4.11` 环境变量
+- `babel-plugin-module-resolver: 4.1.0` 路径别名
+- `react-native-svg: 13.6.0` svg 图标 转 rn 组件
+- `dva-core-ts: 2.0.7` dva 状态管理
+- `@react-navigation/stack: 6.3.10` 路由
+- `@react-navigation/bottom-tabs: 6.5.2` 底部导航
+- `@react-navigation/material-top-tabs: 6.5.1` 顶部导航
+- `react-native-gesture-handler: 2.8.0` 手势
+- `react-native-safe-area-context: 4.4.1` 安全区域
+- `react-native-snap-carousel: 3.9.1` 轮播图
+- `axios: 1.24.0` http 请求
+- `react-native-linear-gradient: 2.6.2` 渐变色
+- `react-native-linear-animated-gradient-transition: 0.1.6` 渐变色动画
 
 ## 完成功能进度
 
